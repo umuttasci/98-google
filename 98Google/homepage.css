@@ -1,0 +1,72 @@
+.container {
+  margin-left: auto;
+  margin-right: auto;
+  background-color: black;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+}
+
+.logo {
+  display: block;
+  text-align: center;
+  height: 113px;
+  margin-top: 10px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.searchb {
+  display: block;
+  text-align: center;
+  background-color: #eeeeee;
+  height: 80px;
+  margin-right: 5%;
+  margin-left: 5%;
+}
+
+.leftb {
+  display: inline-block;
+  text-align: center;
+  background-color: #7ee5da;
+  width: 40%;
+  height: 76px;
+  margin-right: 3px;
+}
+
+.centerb {
+  display: inline-block;
+  text-align: center;
+  justify-content: center;
+  background-color: #70ccc2;
+  width: 20%;
+  height: 76px;
+  margin-right: 3px;
+  font-size: 13px;
+}
+
+.rightb {
+  display: block;
+  text-align: center;
+  background-color: #62b3aa;
+  width: 40%;
+  height: 76px;
+  font-size: 13px;
+}
+
+.footer {
+  text-align: center;
+  font-size: 13px;
+}
+
+.boxes {
+  display: flex;
+  justify-content: center;
+  margin: 0 5%;
+}
+
+p {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
